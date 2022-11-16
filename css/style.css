@@ -19,12 +19,17 @@
     --scroll-thumb-hover-color: #39e16e;
 
 }
+@font-face{
+    font-family: "orator std";
+    src: url(./orator-std-font.otf);
+    }
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: url('../Abenezer-A/Abenezer-A.github.io/edit/main/css/orator-std-font.otf');
+    font-family: 'orator std';
+
 }
 
 html{
